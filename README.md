@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey)
 
-- 📝 I regularly write articles on [https://twitter.com/YeojMars](https://twitter.com/YeojMars)
+- 📝 I regularly retweet about space, food, and programming on [https://twitter.com/YeojMars](https://twitter.com/YeojMars)
 
 - 💬 Ask me about **how I got here and why I love coding and how I can help you**
 
