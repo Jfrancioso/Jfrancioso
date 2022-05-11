@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joefrancioso@gmail.com**
 
-- ⚡ Fun fact **previous army combat medic**
+- ⚡ Fun fact **previous army combat medic with the 101st airborne air assault division**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
