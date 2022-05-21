@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Movie Review Analyzer**
 
-- 🌱 I’m currently learning **Javascript and Object Oriented Programming**
+- 🌱 I’m currently learning **Javascript and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey)
+<!--👨‍💻 All of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey)-->
 
 - 📝 I regularly retweet about space, food, and programming on [https://twitter.com/YeojMars](https://twitter.com/YeojMars)
 
