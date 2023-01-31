@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Movie Review Analyzer**
 
-- 🌱 I’m currently learning **Javascript and Node.js**
+- 🌱 I’m currently learning **C# and .NET**
 
 <!--👨‍💻 All of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey)-->
 
