@@ -2,6 +2,10 @@
 
 I'm a software engineer based in Ohio with a passion for building web applications and exploring new technologies. My current interests include C# and .NET, MSSQL, and Unity.
 
+Outside of work, I am passionate about cultivating meaningful relationships and promoting proactive health management. I find inspiration in the possibility of a multi-planetary species and the empowerment of Earth through empathy. I am excited about the opportunity to work on impactful software that can make a positive difference in the world.
+
+And of course, I spend most of my free time with my favorite cat named Mars!
+
 ## About Me
 
 - 🔭 I'm currently working on **Purrfect Flight**, a unity side scroller game that's cat themed!
