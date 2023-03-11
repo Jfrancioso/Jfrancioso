@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joey</h1>
 <h3 align="center">A passionate frontend and backend software engineer from Ohio.</h3>
 
-- 🔭 I’m currently working on **Movie Review Analyzer**
+- 🔭 I’m currently working on **Purrfect Flight**
 
-- 🌱 I’m currently learning **C# and .NET**
+- 🌱 I’m currently learning **C# and .NET | MSSQL | UNITY**
 
-<!--👨‍💻 All of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey)-->
+<!--👨‍💻 some of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey), but most up to date are here-->
 
 - 📝 I regularly retweet about space, food, and programming on [https://twitter.com/YeojMars](https://twitter.com/YeojMars)
 
