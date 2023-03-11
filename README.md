@@ -1,39 +1,40 @@
-<h1 align="center">Hi 👋, I'm Joey</h1>
-<h3 align="center">A passionate frontend and backend software engineer from Ohio.</h3>
+# Hi there, I'm Joey 👋
 
-- 🔭 I’m currently working on **Purrfect Flight**
+I'm a software engineer based in Ohio with a passion for building web applications and exploring new technologies. My current interests include C# and .NET, MSSQL, and Unity.
 
-- 🌱 I’m currently learning **C# and .NET | MSSQL | UNITY**
+## About Me
 
-<!--👨‍💻 some of my projects are available at [https://codepen.io/tippytoeyjoey](https://codepen.io/tippytoeyjoey), but most up to date are here-->
+- 🔭 I'm currently working on **Purrfect Flight**, a web application for booking flights for you and your pets.
+- 🌱 I'm constantly learning new things and exploring new technologies to build better software.
+- 💬 Ask me about how I got started in coding, how I can help you with your projects, or anything else that comes to mind!
+- 📫 You can reach me at **joefrancioso@gmail.com**.
 
-- 📝 I regularly retweet about space, food, and programming on [https://twitter.com/YeojMars](https://twitter.com/YeojMars)
+## Connect with Me
 
-- 💬 Ask me about **how I got here and why I love coding and how I can help you**
+You can find me on the following platforms:
 
-- 📫 How to reach me **joefrancioso@gmail.com**
+- [Twitter](https://twitter.com/YeojMars)
+- [LinkedIn](https://linkedin.com/in/jfrancioso)
+- [CodePen](https://codepen.io/tippytoeyjoey)
 
-- ⚡ Fun fact **previous army combat medic with the 101st airborne air assault division**
+## Technologies and Tools
 
+Here are some of the technologies and tools that I have experience with:
 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+## GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tippytoeyjoey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tippytoeyjoey" height="30" width="40" /></a>
-<a href="https://twitter.com/yeojmars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeojmars" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jfrancioso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jfrancioso" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19089663/joey-f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19089663/joey-f" height="30" width="40" /></a>
-</p>
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jfrancioso&show_icons=true&theme=dracula)
 
+## Top Languages
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-![Joey's Stats](https://github-readme-stats.vercel.app/api?username=Jfrancioso&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jfrancioso)](https://github.com/Jfrancioso/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jfrancioso&layout=compact&theme=dracula)](https://github.com/Jfrancioso/github-readme-stats)
 
