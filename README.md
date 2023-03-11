@@ -4,7 +4,7 @@ I'm a software engineer based in Ohio with a passion for building web applicatio
 
 ## About Me
 
-- 🔭 I'm currently working on **Purrfect Flight**, a web application for booking flights for you and your pets.
+- 🔭 I'm currently working on **Purrfect Flight**, a unity side scroller game that's cat themed!
 - 🌱 I'm constantly learning new things and exploring new technologies to build better software.
 - 💬 Ask me about how I got started in coding, how I can help you with your projects, or anything else that comes to mind!
 - 📫 You can reach me at **joefrancioso@gmail.com**.
@@ -15,7 +15,6 @@ You can find me on the following platforms:
 
 - [Twitter](https://twitter.com/YeojMars)
 - [LinkedIn](https://linkedin.com/in/jfrancioso)
-- [CodePen](https://codepen.io/tippytoeyjoey)
 
 ## Technologies and Tools
 
@@ -25,6 +24,7 @@ Here are some of the technologies and tools that I have experience with:
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
