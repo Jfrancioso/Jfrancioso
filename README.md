@@ -38,3 +38,10 @@ Here are some of the technologies and tools that I have experience with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jfrancioso&layout=compact&theme=dracula)](https://github.com/Jfrancioso/github-readme-stats)
 
+| Project | Description | Tech |
+| --- | --- | --- |
+| [TenmoCashWave](https://github.com/Jfrancioso/TenmoCashWave) | A command-line interface (CLI) application that simulates a money transfer service. | C#, .NET, MSSQL, POSTMAN |
+| ![TenmoCashWave](https://media.giphy.com/media/7Rrq6998rQiYIFrmxR/giphy.gif) | A console application inspired by "venmo". It allows users to send and receive money from their friends and family, and features user authentication, balance management, and transaction history.
+ | |
+| [PurrfectFlight](https://github.com/Jfrancioso/PurrfectFlightUnityGame) | A 2D flight game where players control a cat that in time will collect fish while dodging obstacles. | Unity, C# |
+| ![PurrfectFlight](https://media.giphy.com/media/pPvtdMKRD17ssFlQun/giphy.gif) | A unity based side-scroller game, similar to the mobile app ‘Flappy Bird’. Players can choose from three characters and navigate them through pipes without colliding with obstacles. | PurrfectFlight. |
