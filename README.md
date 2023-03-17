@@ -8,7 +8,7 @@ And of course, I spend most of my free time with my favorite cat named Mars!
 
 ## About Me
 
-- 🔭 I'm currently working on **Purrfect Flight**, a unity side scroller game that's cat themed!
+- 🔭 I'm currently working on two projects **Purrfect Flight** && **PlatoonMedic**, a unity side scroller game that's cat themed, and a medical tracker for military medics in their respective platoons!
 - 🌱 I'm constantly learning new things and exploring new technologies to build better software.
 - 💬 Ask me about how I got started in coding, how I can help you with your projects, or anything else that comes to mind!
 - 📫 You can reach me at **joefrancioso@gmail.com**.
