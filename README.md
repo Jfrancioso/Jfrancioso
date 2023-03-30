@@ -1,4 +1,4 @@
-# Hi there, I'm Joey 👋
+# Hi there, I'm Joey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 I'm a **Software Engineer** based in Ohio with a passion for building web applications and exploring new technologies. My current interests include **C#**, **.NET**, **MSSQL**, and **Unity**. I'm excited about working on impactful software that makes a positive difference in the world.
 
@@ -47,3 +47,4 @@ Here are some of the technologies and tools that I have experience with:
 | [TenmoCashWave](https://github.com/Jfrancioso/TenmoCashWave) | A command-line interface (CLI) application that simulates a money transfer service. | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![TenmoCashWave](https://media.giphy.com/media/7Rrq6998rQiYIFrmxR/giphy.gif) |
 | [PurrfectFlight](https://github.com/Jfrancioso/PurrfectFlightUnityGame) | A 2D flight game where players control a cat that collects fish while dodging obstacles. | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![PurrfectFlight](https://media.giphy.com/media/pPvtdMKRD17ssFlQun/giphy.gif) |
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jfrancioso.Jfrancioso&left_color=green&right_color=red)
