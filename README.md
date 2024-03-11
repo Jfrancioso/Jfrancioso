@@ -15,7 +15,6 @@ Outside of work, I'm passionate about cultivating meaningful relationships, prom
 
 Find me on the following platforms:
 
-- [Twitter](https://twitter.com/YeojMars)
 - [LinkedIn](https://linkedin.com/in/jfrancioso)
 
 ## Technologies and Tools
