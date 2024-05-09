@@ -1,6 +1,6 @@
 # Hi there, I'm Joey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-I'm a **Software Engineer** based in Ohio with a passion for building web applications and exploring new technologies. My current interests include **C#**, **.NET**, **MSSQL**, and **Unity**. I'm excited about working on impactful software that makes a positive difference in the world.
+I'm a **Software Developer** based in Ohio with a passion for building web applications and exploring new technologies. My current interests include **C#**, **.NET**, **MSSQL**, and **Unity**. I'm excited about working on impactful software that makes a positive difference in the world.
 
 Outside of work, I'm passionate about cultivating meaningful relationships, promoting proactive health management, and the prospect of a multi-planetary species. In my free time, I enjoy spending time with my favorite cat named Mars!
 
