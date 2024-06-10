@@ -9,7 +9,6 @@ Outside of work, I'm passionate about cultivating meaningful relationships, prom
 - 🔭 I'm currently working on three projects: **PortfolioWebsite**, **Purrfect Flight**, and **PlatoonMedic** – a full-stack web applciation for my resume/skills/projects and a blog, a cat-themed Unity side scroller game and a medical tracker for military medics.
 - 🌱 I'm constantly learning new things and exploring new technologies to build better software.
 - 💬 Ask me about how I got started in coding, how I can help you with your projects, or anything else that comes to mind!
-- 📫 You can reach me at **joefrancioso@gmail.com**.
 
 ## Connect with Me
 
